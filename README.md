@@ -1,1 +1,2 @@
-TaxoparkProject
+TaxoparkProject - redundant project.
+See TaxoparkPrj
